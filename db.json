@@ -1,0 +1,92 @@
+{
+  "product": [
+    {
+      "id": 1,
+      "name": "Black 'Opposite Skull' Print T-Shirt",
+      "price": 48.00,
+      "originalPrice": 95.00,
+      "discount": "50% OFF",
+      "urls": "https://www.paulsmith.com/black-opposite-skull-print-t-shirt"
+    },
+    {
+      "id": 2,
+      "name": "Life Drawing Print Cotton T-Shirt",
+      "price": 92.00,
+      "originalPrice": null,
+      "discount": null,
+      "urls":"https://www.paulsmith.com/life-drawing-print-cotton-t-shirt"
+    },
+    {
+      "id": 3,
+      "name": "'Life Drawing' Print Cotton T-Shirt",
+      "price": 125.00,
+      "originalPrice": 250.00,
+      "discount": "50% OFF",
+      "urls":"https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1707417058/MODEL/ECOM/M1R/M1R-919T-MP4285-92/M1R-919T-MP4285-92_1"
+    },
+    {
+      "id": 4,
+      "name": "Dark Navy 'Bottles' Print T-Shirt",
+      "price": 48.00,
+      "originalPrice": 95.00,
+      "discount": "50% OFF",
+      "urls": "https://www.paulsmith.com/dark-navy-bottles-print-t-shirt"
+    },
+    {
+      "id": 5,
+      "name": "Black Cotton Badges Print T-Shirt",
+      "price": 48.00,
+      "originalPrice": 95.00,
+      "discount": "50% OFF",
+      "urls":"https://www.paulsmith.com/black-cotton-badges-print-t-shirt"
+    },
+    {
+      "id": 6,
+      "name": "Slim-Fit Black 'Sticker Skull' T-Shirt",
+      "price": 48.00,
+      "originalPrice": 95.00,
+      "discount": "50% OFF",
+      "urls":"https://www.paulsmith.com/slim-fit-black-sticker-skull-print-t-shirt"
+    },
+    {
+      "id": 7,
+      "name": "Ink Blue Cotton 'Badges' Print T-Shirt",
+      "price": 48.00,
+      "originalPrice": 95.00,
+      "discount": "50% OFF",
+      "urls":"https://www.paulsmith.com/ink-blue-cotton-badges-print-t-shirt"
+    } ,
+    {
+      "id": 8,
+      "title": "Black Cotton 'Badges' Print T-Shirt",
+      "price": 95.00,
+      "discounted_price": 48.00,
+      "discount_percentage": "50% OFF",
+      "urls":"https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635454/MODEL/ECOM/M2R/M2R-011R-MP4545-79/M2R-011R-MP4545-79_1"
+    },
+    {
+      "id": 9,
+      "title": "Slim-Fit Black 'Sticker Skull' T-Shirt",
+      "price": 95.00,
+      "discounted_price": 48.00,
+      "discount_percentage": "50% OFF",
+      "urls":"https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1701350999/MODEL/ECOM/M2R/M2R-010R-MP4437-79/M2R-010R-MP4437-79_1"
+    },
+    {
+      "id":10,
+      "title": "Ink Blue Cotton 'Badges' Print T-Shirt",
+      "price": 95.00,
+      "discounted_price": 48.00,
+      "discount_percentage": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1706635440/MODEL/ECOM/M2R/M2R-011R-MP4545-46B/M2R-011R-MP4545-46B_1"
+    },
+    {
+      "id":11,
+      "title": "Black 'Skull' Print T-Shirt",
+      "price": 95.00,
+      "discounted_price": 48.00,
+      "discount_percentage": "50% OFF",
+      "urls": "https://assets.paulsmith.com/paul-smith-products/f_jpg,q_auto,ar_5:7,c_fill,w_614/v1705057353/STILL/M2R/M2R-220X-MP4535-79/M2R-220X-MP4535-79_10"
+    }
+  ]
+}
